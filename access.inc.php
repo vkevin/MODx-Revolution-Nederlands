@@ -1,8 +1,8 @@
 <?php
 /**
- * Access Nederlands lexicon topic
+ * Access English lexicon topic
  *
- * @language nl
+ * @language en
  * @package modx
  * @subpackage lexicon
  */
