@@ -1,10 +1,12 @@
 <?php
 /**
- * Config Check English lexicon topic
+ * Config Check Dutch lexicon topic
  *
- * @language en
+ * @language nl
  * @package modx
  * @subpackage lexicon
+ * 
+ * @author GP Sietzema, Sterc.nl
  */
 $_lang['configcheck_admin'] = 'Please contact a systems administrator and warn them about this message!';
 $_lang['configcheck_cache'] = 'cache directory not writable';

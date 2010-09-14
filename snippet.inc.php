@@ -1,10 +1,12 @@
 <?php
 /**
- * Snippet English lexicon topic
+ * Snippet Dutch lexicon topic
  *
- * @language en
+ * @language nl
  * @package modx
  * @subpackage lexicon
+ * 
+ * @author Kevin van Haare, Webton.nl
  */
 $_lang['snippet'] = 'Snippet';
 $_lang['snippets_available'] = 'Snippets available for you to include in your page';

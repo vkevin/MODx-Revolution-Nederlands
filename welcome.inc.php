@@ -1,10 +1,12 @@
 <?php
 /**
- * Welcome English lexicon topic
+ * Welcome Dutch lexicon topic
  *
- * @language en
+ * @language nl
  * @package modx
  * @subpackage lexicon
+ * 
+ * @author Kevin van Haare, Webton.nl
  */
 $_lang['modx_news'] = 'MODx News';
 $_lang['security_notices'] = 'Security Notices';

@@ -1,10 +1,12 @@
 <?php
 /**
- * Lexicon English lexicon topic
+ * Lexicon Dutch lexicon topic
  *
- * @language en
+ * @language nl
  * @package modx
  * @subpackage lexicon
+ * 
+ * @author Bert Oost
  */
 $_lang['duplicate'] = 'Duplicate';
 $_lang['entry'] = 'Entry';

@@ -1,10 +1,12 @@
 <?php
 /**
- * File English lexicon topic
+ * File Dutch lexicon topic
  *
- * @language en
+ * @language nl
  * @package modx
  * @subpackage lexicon
+ * 
+ * @author GP Sietzema, Sterc.nl
  */
 $_lang['file_confirm_remove'] = 'Are you sure you want to remove this file? This could potentially break your website.';
 $_lang['file_deleted'] = 'Success!';

@@ -1,10 +1,12 @@
 <?php
 /**
- * Action English lexicon topic
+ * Action Dutch lexicon topic
  *
- * @language en
+ * @language nl
  * @package modx
  * @subpackage lexicon
+ * 
+ * @author GP Sietzema, Sterc.nl
  */
 $_lang['action'] = 'Action';
 $_lang['action_confirm_remove'] = 'Are you sure you want to remove this action? This could potentially break your MODx manager interface.';

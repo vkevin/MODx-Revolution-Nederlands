@@ -1,10 +1,12 @@
 <?php
 /**
- * System Info English lexicon topic
+ * System Info Dutch lexicon topic
  *
- * @language en
+ * @language nl
  * @package modx
  * @subpackage lexicon
+ * 
+ * @author Kevin van Haare, Webton.nl
  */
 $_lang['database_charset'] = 'Database charset';
 $_lang['database_name'] = 'Database name';

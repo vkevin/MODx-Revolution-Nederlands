@@ -1,10 +1,12 @@
 <?php
 /**
- * System Events English lexicon topic
+ * System Events Dutch lexicon topic
  *
- * @language en
+ * @language nl
  * @package modx
  * @subpackage lexicon
+ * 
+ * @author Kevin van Haare, Webton.nl
  */
 $_lang['clear'] = 'Clear';
 $_lang['error_log'] = 'Error Log';

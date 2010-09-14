@@ -1,10 +1,12 @@
 <?php
 /**
- * Package Builder English lexicon topic
+ * Package Builder Dutch lexicon topic
  *
- * @language en
+ * @language nl
  * @package modx
  * @subpackage lexicon
+ * 
+ * @author Bert Oost
  */
 $_lang['as_system_settings'] = 'System Settings';
 $_lang['as_context_settings'] = 'Context Settings';

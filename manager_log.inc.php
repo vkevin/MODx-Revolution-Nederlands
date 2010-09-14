@@ -1,10 +1,12 @@
 <?php
 /**
- * Manager Log English lexicon topic
+ * Manager Log Dutch lexicon topic
  *
- * @language en
+ * @language nl
  * @package modx
  * @subpackage lexicon
+ * 
+ * @author Bert Oost
  */
 $_lang['action'] = 'Action';
 $_lang['date_end'] = 'End Date';

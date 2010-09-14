@@ -1,10 +1,12 @@
 <?php
 /**
- * Access Policy English lexicon topic
+ * Access Policy Dutch lexicon topic
  *
- * @language en
+ * @language nl
  * @package modx
  * @subpackage lexicon
+ * 
+ * @author Bert Oost
  */
 $_lang['permission'] = 'Permission';
 $_lang['permission_err_ae'] = 'Permission already exists for this policy.';

@@ -1,10 +1,12 @@
 <?php
 /**
- * Context English lexicon topic
+ * Context Dutch lexicon topic
  *
- * @language en
+ * @language nl
  * @package modx
  * @subpackage lexicon
+ * 
+ * @author GP Sietzema, Sterc.nl
  */
 $_lang['context'] = 'Context';
 $_lang['context_add'] = 'Add Context';

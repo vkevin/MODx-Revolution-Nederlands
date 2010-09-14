@@ -1,10 +1,12 @@
 <?php
 /**
- * Login English lexicon topic
+ * Login Dutch lexicon topic
  *
- * @language en
+ * @language nl
  * @package modx
  * @subpackage lexicon
+ * 
+ * @author Bert Oost
  */
 $_lang['login_activation_key_err'] = 'Activation key does not match! Please check your activation email and make sure you loaded the right URL.';
 $_lang['login_blocked_admin'] = 'You have been blocked from the manager by an administrator.';

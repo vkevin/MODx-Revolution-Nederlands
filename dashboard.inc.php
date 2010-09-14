@@ -1,10 +1,12 @@
 <?php
 /**
- * Welcome Page English lexicon topic
+ * Welcome Page Dutch lexicon topic
  *
- * @language en
+ * @language nl
  * @package modx
  * @subpackage lexicon
+ * 
+ * @author GP Sietzema, Sterc.nl
  */
 $_lang['active_users_none'] = 'No currently active users.';
 $_lang['add_user'] = 'Add User';

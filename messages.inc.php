@@ -1,10 +1,12 @@
 <?php
 /**
- * Messages English lexicon topic
+ * Messages Dutch lexicon topic
  *
- * @language en
+ * @language nl
  * @package modx
  * @subpackage lexicon
+ * 
+ * @author Bert Oost
  */
 $_lang['all'] = 'All';
 $_lang['date_sent'] = 'Date Sent';

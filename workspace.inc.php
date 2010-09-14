@@ -1,10 +1,12 @@
 <?php
 /**
- * Workspace English lexicon topic
+ * Workspace Dutch lexicon topic
  *
- * @language en
+ * @language nl
  * @package modx
  * @subpackage lexicon
+ * 
+ * @author Kevin van Haare, Webton.nl
  */
 $_lang['alphabetically'] = 'Alphabetically';
 $_lang['already_downloaded'] = 'You have already downloaded this package.';

@@ -1,10 +1,12 @@
 <?php
 /**
- * Custom Filters English lexicon topic
+ * Custom Filters Dutch lexicon topic
  *
- * @language en
+ * @language nl
  * @package modx
  * @subpackage lexicon
+ * 
+ * @author GP Sietzema, Sterc.nl
  */
 $_lang['ago'] = '[[+time]] ago';
 $_lang['ago_day'] = '[[+time]] day';

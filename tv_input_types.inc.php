@@ -1,10 +1,12 @@
 <?php
 /**
- * TV Input Types English lexicon topic
+ * TV Input Types Dutch lexicon topic
  *
- * @language en
+ * @language nl
  * @package modx
  * @subpackage lexicon
+ * 
+ * @author Kevin van Haare, Webton.nl
  */
 $_lang['autotag'] = 'Auto-Tag';
 $_lang['text'] = 'Text';

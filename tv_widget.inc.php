@@ -1,10 +1,12 @@
 <?php
 /**
- * TV Widget English lexicon topic
+ * TV Widget Dutch lexicon topic
  *
- * @language en
+ * @language nl
  * @package modx
  * @subpackage lexicon
+ * 
+ * @author Kevin van Haare, Webton.nl
  */
 $_lang['attributes'] = 'Attributes';
 $_lang['capitalize'] = 'Capitalize';

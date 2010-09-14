@@ -1,10 +1,12 @@
 <?php
 /**
- * Property Set English lexicon topic
+ * Property Set Dutch lexicon topic
  *
  * @language en
  * @package modx
  * @subpackage lexicon
+ * 
+ * @author Kevin van Haare, Webton.nl
  */
 $_lang['class_name'] = 'Class Name';
 $_lang['default'] = 'Default';

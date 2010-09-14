@@ -1,10 +1,12 @@
 <?php
 /**
- * Top Menu English lexicon topic
+ * Top Menu Dutch lexicon topic
  *
- * @language en
+ * @language nl
  * @package modx
  * @subpackage lexicon
+ * 
+ * @author Kevin van Haare, Webton.nl
  */
 $_lang['about'] = 'About';
 $_lang['about_desc'] = 'More information about MODx Revolution.';

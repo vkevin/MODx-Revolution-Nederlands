@@ -1,10 +1,12 @@
 <?php
 /**
- * Form Customization English lexicon topic
+ * Form Customization Dutch lexicon topic
  *
- * @language en
+ * @language nl
  * @package modx
  * @subpackage lexicon
+ * 
+ * @author Bert Oost
  */
 $_lang['action'] = 'Action';
 $_lang['action_desc'] = 'The Action that this Rule will apply to.';

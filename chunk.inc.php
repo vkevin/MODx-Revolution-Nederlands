@@ -1,10 +1,12 @@
 <?php
 /**
- * Chunk English lexicon topic
+ * Chunk Dutch lexicon topic
  *
- * @language en
+ * @language nl
  * @package modx
  * @subpackage lexicon
+ * 
+ * @author GP Sietzema, Sterc.nl
  */
 $_lang['chunk'] = 'Chunk';
 $_lang['chunk_code'] = 'Chunk code (html)';

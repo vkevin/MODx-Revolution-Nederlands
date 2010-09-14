@@ -1,10 +1,12 @@
 <?php
 /**
- * Access English lexicon topic
+ * Access Dutch lexicon topic
  *
- * @language en
+ * @language nl
  * @package modx
  * @subpackage lexicon
+ * 
+ * @author GP Sietzema, Sterc.nl
  */
 $_lang['access_category_management_msg'] = 'Manage User Group member access to Elements via Categories and optionally apply access policies.';
 $_lang['access_category_err_ae'] = 'An ACL for that Category already exists!';

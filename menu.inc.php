@@ -1,10 +1,12 @@
 <?php
 /**
- * Menu English lexicon topic
+ * Menu Dutch lexicon topic
  *
- * @language en
+ * @language nl
  * @package modx
  * @subpackage lexicon
+ * 
+ * @author Bert Oost
  */
 $_lang['lexicon_key'] = 'Lexicon Key';
 $_lang['menu_create'] = 'Create Menu';

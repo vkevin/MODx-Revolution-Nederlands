@@ -1,10 +1,12 @@
 <?php
 /**
- * Template English lexicon topic
+ * Template Dutch lexicon topic
  *
- * @language en
+ * @language nl
  * @package modx
  * @subpackage lexicon
+ * 
+ * @author Kevin van Haare, Webton.nl
  */
 $_lang['access'] = 'Access';
 $_lang['rank'] = 'Rank';

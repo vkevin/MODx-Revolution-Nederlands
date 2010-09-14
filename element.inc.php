@@ -1,9 +1,12 @@
 <?php
 /**
- * English language strings for Elements
+ * Dutch language strings for Elements
  *
+ * @language nl
  * @package modx
  * @subpackage lexicon
+ * 
+ * @author GP Sietzema, Sterc.nl
  */
 $_lang['element'] = 'Element';
 $_lang['element_err_nf'] = 'Element not found.';

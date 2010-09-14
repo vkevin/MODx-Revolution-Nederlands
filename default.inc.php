@@ -1,10 +1,12 @@
 <?php
 /**
- * Default English lexicon topic
+ * Default Dutch lexicon topic
  *
- * @language english
+ * @language nl
  * @package modx
  * @subpackage lexicon
+ * 
+ * @author GP Sietzema, Sterc.nl
  */
 $_lang['access'] = 'Access';
 $_lang['access_denied'] = 'Access denied.';

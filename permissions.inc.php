@@ -1,10 +1,12 @@
 <?php
 /**
- * Permissions English lexicon topic
+ * Permissions Dutch lexicon topic
  *
- * @language en
+ * @language nl
  * @package modx
  * @subpackage lexicon
+ * 
+ * @author Bert Oost
  */
 $_lang['perm.about_desc'] = 'The About page.';
 $_lang['perm.access_permissions_desc'] = 'Any Access Permission-related pages and actions.';

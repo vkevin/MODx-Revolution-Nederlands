@@ -1,10 +1,12 @@
 <?php
 /**
- * Setting English lexicon topic
+ * Setting Dutch lexicon topic
  *
- * @language en
+ * @language nl
  * @package modx
  * @subpackage lexicon
+ * 
+ * @author Kevin van Haare, Webton.nl
  */
 $_lang['area'] = 'Area';
 $_lang['area_authentication'] = 'Authentication and Security';

@@ -1,10 +1,12 @@
 <?php
 /**
- * Resource English lexicon topic
+ * Resource Dutch lexicon topic
  *
- * @language en
+ * @language nl
  * @package modx
  * @subpackage lexicon
+ * 
+ * @author Kevin van Haare, Webton.nl
  */
 $_lang['access'] = 'Access';
 $_lang['cache_output'] = 'Cache Output';

@@ -1,10 +1,12 @@
 <?php
 /**
- * Plugin English lexicon topic
+ * Plugin Dutch lexicon topic
  *
- * @language en
+ * @language nl
  * @package modx
  * @subpackage lexicon
+ * 
+ * @author Bert Oost
  */
 $_lang['event'] = 'Event';
 $_lang['events'] = 'Events';

@@ -1,10 +1,12 @@
 <?php
 /**
- * Mail English lexicon topic
+ * Mail Dutch lexicon topic
  *
- * @language en
+ * @language nl
  * @package modx
  * @subpackage lexicon
+ * 
+ * @author Bert Oost
  */
 $_lang['mail_err_address_ns'] = 'You must provide an email address to send to.';
 $_lang['mail_err_derive_getmailer'] = 'Attempt to call abstract function _getMailer() in modMail class. You must implement this function in a derivative of modMail.';

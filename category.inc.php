@@ -1,10 +1,12 @@
 <?php
 /**
- * Category English lexicon topic
+ * Category Dutch lexicon topic
  *
- * @language en
+ * @language nl
  * @package modx
  * @subpackage lexicon
+ * 
+ * @author GP Sietzema, Sterc.nl
  */
 $_lang['categories'] = 'Categories';
 $_lang['category_confirm_delete'] = 'Are you sure you want to remove this category? All elements in this category will be filed to uncategorized.';
