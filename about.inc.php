@@ -1,10 +1,11 @@
 <?php
 /**
- * About Nederlands lexicon topic
+ * About Dutch lexicon topic
  *
  * @language nl
  * @package modx
  * @subpackage lexicon
+ * @updated 2010-09-14
  */
 $_lang['about_msg'] = 'MODx is een <a href="http://modxcms.com/" target="_blank">PHP Application Framework en Content Management Systeem</a> gelicenseerd onder de <a href="http://opensource.org/licenses/gpl-2.0.php">GNU Public License v2</a> en/of welke latere versie dan ook.';
 $_lang['about_title'] = 'Over MODx';
